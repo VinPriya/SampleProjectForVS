@@ -1,0 +1,2 @@
+# SampleProjectForVS
+Learning Mode
